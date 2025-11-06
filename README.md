@@ -12,6 +12,8 @@
 
 ## 💬 Talk with me
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+
 🔸 BackEnd: Node.js, ExpressJS, Nest.js, Python, Django, Flask, AWS, RESTFul API, PostgreSQL, AI, ML
 
 💧 FrontEnd: React, Next.js, Remix, Vue, Redux, , TailwindCSS, SCSS, Javascript, ES6+, Typescript, WordPress, Shopify
@@ -208,14 +210,16 @@
 
 ### 📈 **GitHub Analytics**
 
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
-
----
-<p align="center">
-  <a href="https://app.daily.dev/superdev947"><img src="./devcard.png" width="356" alt="superdev947's Dev Card"/></a>
-</p>
-
----
+<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg) -->
+<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-gitblock.svg) -->
+![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
+<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-green.svg) -->
+<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg) -->
+<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-night-view.svg) -->
+<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-season-animate.svg) -->
+<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-season.svg) -->
+<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-south-season-animate.svg) -->
+<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-south-season.svg) -->
 
 <div align="center">
  <picture>
