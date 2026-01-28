@@ -1,32 +1,19 @@
-<div align="center">
-  <h2>🏆 Github Profile Trophy 🏆</h2>  
-  <img alig src="https://github-profile-trophy.vercel.app/?username=JudeWine&no-bg=true&no-frame=true&theme=onedark&column=8" />
-</div>
-
-<p align="center">
-<a href="https://github.com/JudeWine">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JudeWine&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JudeWine&layout=compact&langs_count=8&theme=midnight-purple"/>
-</a>
-</p>
 
 ## 💬 Talk with me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
-🔸 BackEnd: Node.js, ExpressJS, Nest.js, Python, Django, Flask, AWS, RESTFul API, PostgreSQL, AI, ML 
+✔ BackEnd: Node.js, ExpressJS, Nest.js, Python, FastAPI, Django, Flask, AWS
 
-💧 FrontEnd: React, Next.js, Remix, Vue, Redux, , TailwindCSS, SCSS, Javascript, ES6+, Typescript, WordPress, Shopify
+✔ FrontEnd: React, Next.js, Vue, Redux, TailwindCSS, SCSS, Javascript, Typescript
 
-☀️ Mobile App: React Native, Flutter, Android Java, C#
+✔ Mobile App: React Native, Flutter, Android Kotlin, iOS Swift
 
-🚀 Database: PostgreSQL, MySQL, MongoDB, Supabase, Firebase, Redis, ORM(TypeORM, Sequelize, Prisma, SQLAlchemy), Knex
+✔ Database: PostgreSQL, MySQL, Supabase, Firebase, Redis, ORM
 
-💥 Others: D3.js, ChartJS, React-hook-form, Three.js, Apollo GraphQL, Hasura, tRPC, Adobe XD, Blockchain, Solidity, Smart Contract, Web3.js
+✔ Others: D3.js, ChartJS, React-hook-form, Three.js, Apollo GraphQL, tRPC
 
-## 💫 My🌟BEST🌟 SKILLS
-
-![Views](https://komarev.com/ghpvc/?username=winnerdev2012&label=views&color=blue&style=flat)
+##  My **BEST** SKILLS
 
 <p align="center">
 <table align="center">
@@ -44,16 +31,8 @@
       <br>Next.js
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="55" height="55" />
-      <br>Gatsby
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
       <br>Vue
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
-      <br>Nuxt.js
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
@@ -76,10 +55,6 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=svelte" width="45" height="45" alt="svelte" />
       <br>Svelte
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
-      <br>WordPress
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
@@ -106,19 +81,11 @@
       <br>Flask
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
-      <br>Ruby
-    </td>
-    <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
       <br>RestAPI
     </td>
   </tr>
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=d3" width="45" height="45" alt="D3.js" />
-      <br>D3.js
-    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
       <br>MaterialUI
@@ -150,10 +117,6 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
       <br>Three.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
-      <br>Solidity
     </td>
   </tr>
   <tr>
@@ -200,31 +163,6 @@
   </tr>
 </table>
 </p>
-<hr>
 <br>
 </div>
 
----
-
-### 📈 **GitHub Analytics**
-
----
-
-<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg) -->
-<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-gitblock.svg) -->
-![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
-<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-green.svg) -->
-<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg) -->
-<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-night-view.svg) -->
-<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-season-animate.svg) -->
-<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-season.svg) -->
-<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-south-season-animate.svg) -->
-<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-south-season.svg) -->
-
-<div align="center">
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-</div>
