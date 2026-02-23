@@ -1,4 +1,4 @@
-# Full-Stack AI developer
+# Full-Stack AI Developer Specialized in FastAPI & Node.js Backend
 
 <!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"> -->
 
