@@ -1,19 +1,45 @@
+# Full-Stack AI developer
 
-## 💬 Talk with me
+<!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"> -->
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+## Skillset
 
-✔ BackEnd: Node.js, ExpressJS, Nest.js, Python, FastAPI, Django, Flask, AWS
+### ✔ Backend Engineering
+- Frameworks: FastAPI, Node.js, Express.js, NestJS, Django, Flask
+- Languages: Python, JS, TS
+- Architecture: RESTful APIs, GraphQL, Microservices, Event-driven systems
+- Cloud & Infra: AWS (EC2, S3, RDS, Lambda)
 
-✔ FrontEnd: React, Next.js, Vue, Redux, TailwindCSS, SCSS, Javascript, Typescript
+### ✔ Frontend Development
 
-✔ Mobile App: React Native, Flutter, Android Kotlin, iOS Swift
+- Frameworks: React, Next.js, Vue.js
+- State Management: Redux, Context API, Apollo Client
+- Styling & UI: TailwindCSS, SCSS, Responsive Design Systems
+- Languages: JS (ES6+), TS
+- Data Visualization & Interactive UI: D3.js, Chart.js, Three.js
 
-✔ Database: PostgreSQL, MySQL, Supabase, Firebase, Redis, ORM
+### ✔ Mobile Application Development
 
-✔ Others: D3.js, ChartJS, React-hook-form, Three.js, Apollo GraphQL, tRPC
+- Cross-Platform: React Native, Flutter
+- Native Development: Android (Kotlin), iOS (Swift)
+- Realtime & API Integration: WebSockets, REST, GraphQL
 
-##  My **BEST** SKILLS
+### ✔ Database & Data Layer
+
+- Relational Databases: PostgreSQL, MySQL
+- BaaS & Realtime DB: Supabase, Firebase
+- Caching & Performance: Redis
+- ORM & Query Tools: Prisma, TypeORM, Sequelize, SQLAlchemy
+
+### ✔ Additional Expertise
+
+- Form Handling & Validation (React Hook Form)
+- API Layer Optimization (Apollo GraphQL, tRPC)
+- Performance Optimization & Scalable System Design
+- Secure Authentication & Role-Based Access Control
+
+
+##  My best skills
 
 <p align="center">
 <table align="center">
@@ -59,14 +85,6 @@
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
       <br>Typescript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
-      <br>PHP
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
-      <br>Laravel
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
